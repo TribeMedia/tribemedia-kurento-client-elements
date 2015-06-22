@@ -1,4 +1,4 @@
-kurento-client-elements
+tribemedia-kurento-client-elements
 ============
 Elements implementations for kurento media server
 
